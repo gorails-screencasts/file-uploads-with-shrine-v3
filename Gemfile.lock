@@ -125,7 +125,7 @@ GEM
     devise_masquerade (1.2.0)
       devise (>= 4.7.0)
       railties (>= 5.2.0)
-    down (5.1.1)
+    down (5.2.0)
       addressable (~> 2.5)
     erubi (1.9.0)
     execjs (2.7.0)
@@ -217,7 +217,7 @@ GEM
       rack
     orm_adapter (0.5.0)
     popper_js (1.16.0)
-    public_suffix (4.0.3)
+    public_suffix (4.0.6)
     puma (4.3.1)
       nio4r (~> 2.0)
     rack (2.2.2)
@@ -280,7 +280,7 @@ GEM
     selenium-webdriver (3.142.7)
       childprocess (>= 0.5, < 4.0)
       rubyzip (>= 1.2.2)
-    shrine (3.2.1)
+    shrine (3.3.0)
       content_disposition (~> 1.0)
       down (~> 5.1)
     sidekiq (6.0.5)
@@ -361,7 +361,7 @@ DEPENDENCIES
   rails (~> 6.0.2, >= 6.0.2.1)
   sass-rails (>= 6)
   selenium-webdriver
-  shrine (~> 3.2)
+  shrine (~> 3.3)
   sidekiq (~> 6.0, >= 6.0.3)
   sitemap_generator (~> 6.0, >= 6.0.1)
   spring
